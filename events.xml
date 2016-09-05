@@ -6,7 +6,7 @@
     <name>Bulan-Saturnus</name>
     <startdate>2016-9-8</startdate>
     <enddate></enddate>
-    <color>tomato</color>
+    <color>Blue</color>
     <url>http://www.google.com</url>
   </event>
 
@@ -15,8 +15,25 @@
     <name>Bulan Fase Kuartir Awal</name>
     <startdate>2016-9-9</startdate>
     <enddate></enddate>
-    <color>dodgerblue</color>
+    <color>Blue</color>
     <url></url>
   </event>
 
+  <event>
+    <id>3</id>
+    <name>Gerhana Bulan Penumbra</name>
+    <startdate>2016-9-17</startdate>
+    <enddate></enddate>
+    <color>Blue</color>
+    <url></url>
+  </event>
+
+  <event>
+    <id>4</id>
+    <name>Fase Bulan Purnama</name>
+    <startdate>2016-9-17</startdate>
+    <enddate></enddate>
+    <color>Blue</color>
+    <url></url>
+  </event>
 </monthly>
