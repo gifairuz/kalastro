@@ -3,8 +3,8 @@
 
   <event>
     <id>1</id>
-    <name>Single Day Event</name>
-    <startdate>2015-12-5</startdate>
+    <name>Bulan-Saturnus</name>
+    <startdate>2016-9-8</startdate>
     <enddate></enddate>
     <color>tomato</color>
     <url>http://www.google.com</url>
@@ -12,9 +12,9 @@
 
   <event>
     <id>2</id>
-    <name>Multi Day Event</name>
-    <startdate>2015-12-7</startdate>
-    <enddate>2015-12-11</enddate>
+    <name>Bulan Fase Kuartir Awal</name>
+    <startdate>2016-9-9</startdate>
+    <enddate></enddate>
     <color>dodgerblue</color>
     <url></url>
   </event>
